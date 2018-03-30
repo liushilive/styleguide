@@ -2,6 +2,9 @@
 <?xml-stylesheet type="text/xsl" href="styleguide.xsl"?>
 <GUIDE title="Google JavaScript Style Guide">
   <p class="revision">
+    Please note: there's a newer version of this guide that includes
+    ECMAScript 6th Edition features. It lives <a href="jsguide.html">here</a>.
+    You should probably be using that for new code.
 
     Revision 2.93
   </p>
